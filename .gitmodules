@@ -1,0 +1,3 @@
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/rz3n/hugo-theme-freshstart
